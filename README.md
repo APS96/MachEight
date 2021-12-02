@@ -59,6 +59,12 @@ json
 On the command prompt enter the MachEight directory and run the following command:
 py app.py
 
+#### 3. Input:
+Enter valid input (the app will not accept 0 or non-integer values as input)
+
+#### 4. Output:
+The app will print in console the corresponding message or list of players pairs.
+
 ## Tests
 
 #### 1. Run Unit Tests:
