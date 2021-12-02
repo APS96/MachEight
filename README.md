@@ -42,3 +42,25 @@ that you come across.
 The preferred form of submission is by publishing a public repo on github with
 your code and a README file explaining how to run the code. I also can accept
 an emailed zip file with the same contents.
+
+# Execution
+
+## App
+
+To execute the app first of all it is necesarry to have python installed in your PC. Then follow the following steps
+
+#### 1. Install dependencies:
+The modules used in the app are the following:
+requests
+unittest
+json
+
+#### 2. Run App:
+On the command prompt enter the MachEight directory and run the following command:
+py app.py
+
+## Tests
+
+#### 1. Run Unit Tests:
+On the command prompt enter the MachEight directory and run the following command:
+python -m unittest tests
