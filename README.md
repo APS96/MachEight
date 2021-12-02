@@ -1,6 +1,6 @@
 # MachEight
 
-#Intructions
+# Intructions
 ### Mach Eight Sample Project
 
 Thank you for taking the time to complete this sample project. We're a tech
